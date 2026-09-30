@@ -1,0 +1,6 @@
+{
+  "name": "Vespera Travel Studio",
+  "description": "Bespoke travel itineraries and custom trip planning powered by automated n8n workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
